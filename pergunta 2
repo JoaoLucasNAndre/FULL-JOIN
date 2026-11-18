@@ -1,0 +1,4 @@
+SELECT *
+FROM A
+FULL JOIN B
+ON A.id = B.id;
